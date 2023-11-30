@@ -1,0 +1,42 @@
+*{
+    font-family: 'Merriweather Sans', sans-serif;
+ }
+ 
+ .header{
+ 
+     font-size: xxx-large;
+     color: rgb(19, 60, 60);
+ }
+ 
+ .header p{
+ 
+     font-family: 'Climate Crisis', cursive;
+ }
+ 
+ .header byline{
+ 
+     font-family: 'Merriweather Sans', sans-serif;
+     font-style: italic;
+     font-size: large;
+     color:aquamarine;
+     text-align: right;
+ }
+ 
+ span{
+ 
+     font-weight: bold;
+ }
+ 
+ button{
+     height: 40px;
+     border-radius: 25px;
+ }
+ 
+ #search-history{
+     border-radius: 25px;
+     text-align: center;
+ }
+ 
+ #show-history{
+     text-decoration: dashed underline;
+ }
